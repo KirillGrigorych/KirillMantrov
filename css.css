@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color:black;
+}
+
+canvas {
+  border: 1px solid white;
+}
+
+h1 {
+  color: white;
+  font-family: Montserrat;
+}
+#name {
+  text-align: center;
+  vertical-align: top;
+}
+#canvas {
+  text-align: center;
+  vertical-align: bottom;
+  position: relative;
+}
+
+#buttons {
+  text-align: center;
+}
+#btn {
+  border-radius: 1;
+  border-color: white;
+  background-color: black;
+  color: white; 
+}
